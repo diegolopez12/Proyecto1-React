@@ -1,5 +1,11 @@
+import "./Header.css"
+
+
 function Header(){
-    return  <img src ="/img/header.png" alt = "Org"/>
+    return  <header className="header">
+        <img src ="/img/header.png" alt = "Org"/>
+    </header>
+
 }  //Los componentes se basan en funciones que retornan codigo HTML 
 
 
