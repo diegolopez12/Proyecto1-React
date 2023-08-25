@@ -3,7 +3,7 @@
 
 ## Descripción
 Single Page Aplication basada en el curso de Alura LATAM y Oracle ONE, impartido por Harland Lohora.
-Su objetivo principal es la creación de una SPA con un formulario, que al registrar los usuarios, los añade a un componente con su nombre, puesto de trabajo y una foto previamente adjuntada en el form.
+Su objetivo principal es la creación de una SPA con un formulario de registro de usuarios. Al ser creado los usuarios, estos se añaden a un componente con su nombre, puesto de trabajo y una foto previamente adjuntada en el form.
 
 
 ## Instrucciones de Instalación
