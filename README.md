@@ -7,26 +7,29 @@ Su objetivo principal es la creación de una SPA con un formulario, que al regis
 
 
 ## Instrucciones de Instalación
-
 Instalar git, y en git bash insertar los comandos:
 
 git clone https://github.com/diegolopez12/Proyecto1-React.git
+
 cd Proyecto1-React 
+
 npm install
+
 code .
+
 npm start
 
 
 
 
 ## Caracteristicas
----Paso Previo: Instalar React Developers Tools para la visualización de componentes de react en el navegador
+**Paso Previo:** Instalar React Developers Tools para la visualización de componentes de react en el navegador
 
 La aplicación se desarrolla en React, por lo que esta basada en componentes, los cuales son los siguientes:
 
-Header:Imagen
+**Header:** Imagen
 
-Formulario, que a su vez tiene el componente hijo CampoTexto.
+**Formulario**, que a su vez tiene el componente hijo CampoTexto.
 
 ..
 
